@@ -1,0 +1,13 @@
+ROBOT_ID = 'dsr01'
+ROBOT_MODEL = 'm0609'
+# ROBOT_TOOL = 'Tool Weight_2FG'
+# ROBOT_TOOL = 'Tool Weight_RG2'
+ROBOT_TOOL = 'Tool Weight10'
+# ROBOT_TCP = '2FG_TCP'
+# ROBOT_TCP = 'RG2_TCP'
+ROBOT_TCP = 'GripperDA_v110'
+VEL = 100
+ACC = 100
+DRAWING_PATH = 'all_chars_trajectory'
+SAMPLE_THRESHOLD = 127
+SAMPLE_RATIO = 0.1
