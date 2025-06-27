@@ -34,7 +34,6 @@ ros2 launch dsr_bringup2 dsr_bringup2_rviz.launch.py mode:=real model:=m0609 hos
 
 터미널 1 (로봇 제어 노드 실행)
 ```bash
-
 ros2 launch dsr_bringup2 dsr_bringup2_rviz.launch.py mode:=real model:=m0609 host:=192.168.1.100
 ```
 
@@ -42,14 +41,17 @@ ros2 launch dsr_bringup2 dsr_bringup2_rviz.launch.py mode:=real model:=m0609 hos
 ```bash
 ros2 run wr_robot ui
 ```
+
 터미널 3 (토픽 발행)
 ```bash
 ros2 run wr_robot visual
 ```
+
 터미널 4 (로봇 필기 제어)
 ```bash
 ros2 run wr_robot control_robot
 ```
+
 📷 예시 이미지
 
 예시 이미지는 프로젝트 루트에 포함된 example1.png, example2.png, example3.png 등을 참고하세요.
