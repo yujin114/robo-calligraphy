@@ -52,3 +52,7 @@ ros2 run wr_robot control_robot
 
 🎥 참고 영상
 
+
+
+https://github.com/user-attachments/assets/a01edaed-d514-4e42-b9ac-6fa32bce59fb
+
