@@ -27,14 +27,6 @@
 ### 1. 로봇 제어 노드 실행
 ```bash
 ros2 launch dsr_bringup2 dsr_bringup2_rviz.launch.py mode:=real model:=m0609 host:=192.168.1.100
-
-
-   
-🚀 실행 방법
-
-터미널 1 (로봇 제어 노드 실행)
-```bash
-ros2 launch dsr_bringup2 dsr_bringup2_rviz.launch.py mode:=real model:=m0609 host:=192.168.1.100
 ```
 
 터미널 2 (UI 실행)
