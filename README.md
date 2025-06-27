@@ -44,13 +44,15 @@ ros2 run wr_robot visual
 ros2 run wr_robot control_robot
 ```
 
-📷 예시 이미지
+---
+
+## 📷 예시 이미지
 
 예시 이미지는 프로젝트 루트에 포함된 example1.png, example2.png, example3.png 등을 참고하세요.
 
 
 
-🎥 참고 영상
+## 🎥 참고 영상
 
 [Screencast from 2025년 06월 20일 14시 08분 58초.webm](https://github.com/user-attachments/assets/9d4b8b8f-cb59-45de-920b-f18f502b776d)
 
