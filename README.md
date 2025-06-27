@@ -16,7 +16,7 @@
 
 ## 🔧 사전 준비
 
-### 1. Teach Pendant 설정
+### Teach Pendant 설정
 - **Tool 설정**: `Tool Weight10`  
 - **TCP 설정**: `GripperDA_v10`
 
