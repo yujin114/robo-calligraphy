@@ -59,3 +59,28 @@ ros2 run wr_robot control_robot
 
 https://github.com/user-attachments/assets/a01edaed-d514-4e42-b9ac-6fa32bce59fb
 
+
+
+---
+## 👥 Contributors
+
+Thanks to these wonderful people who have contributed to this project:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/weedmo">
+        <img src="https://github.com/weedmo.png" width="100px;" alt="weedmo"/><br />
+        <sub><b>weedmo</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jsbae_RL">
+        <img src="https://github.com/jsbae_RL.png" width="100px;" alt="jsbae_RL"/><br />
+        <sub><b>jsbae_RL</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
