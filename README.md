@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS2-Humble-blue?logo=ros" />
+  <img src="https://img.shields.io/badge/Python-3.10-yellow?logo=python" />
+  <img src="https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv" />
+  <img src="https://img.shields.io/badge/Doosan-M0609-lightgrey?logo=doosan" />
+  <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg?logo=apache" />
+</p>
+
+
 # 🖋️ robo-calligraphy
 
 ✍️ **필기 로봇팔 프로젝트 - `wr_robot`**  
