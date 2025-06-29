@@ -91,9 +91,9 @@ Thanks to these wonderful people who have contributed to this project:
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/jsbae_RL">
-        <img src="https://github.com/jsbae_RL.png" width="100px;" alt="jsbae_RL"/><br />
-        <sub><b>jsbae_RL</b></sub>
+      <a href="https://github.com/jsbae-RL">
+        <img src="https://github.com/jsbae-RL.png" width="100px;" alt="jsbae-RL"/><br />
+        <sub><b>jsbae-RL</b></sub>
       </a>
     </td>
   </tr>
