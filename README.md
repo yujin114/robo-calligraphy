@@ -75,12 +75,25 @@ https://github.com/user-attachments/assets/a01edaed-d514-4e42-b9ac-6fa32bce59fb
 
 Thanks to these wonderful people who have contributed to this project:
 
+
 <table>
   <tr>
+    <td align="center">
+      <a href="https://github.com/yujin114">
+        <img src="https://github.com/yujin114.png" width="100px;" alt="yujin114"/><br />
+        <sub><b>yujin114</b></sub>
+      </a>
+    </td>
     <td align="center">
       <a href="https://github.com/weedmo">
         <img src="https://github.com/weedmo.png" width="100px;" alt="weedmo"/><br />
         <sub><b>weedmo</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jsbae_RL">
+        <img src="https://github.com/jsbae_RL.png" width="100px;" alt="jsbae_RL"/><br />
+        <sub><b>jsbae_RL</b></sub>
       </a>
     </td>
   </tr>
